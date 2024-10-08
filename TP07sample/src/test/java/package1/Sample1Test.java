@@ -19,5 +19,10 @@ public class Sample1Test {
 		System.out.println("create org executed");
 		
 	}
+	
+	@Test
+	public void modifyorg() {
+		System.out.println("org modified");
+	}
 
 }
